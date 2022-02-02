@@ -98,6 +98,7 @@ else:
 ```
 ## Sample Input and Output
 ![](1.jpg)
+![](2.jpg)
 
 
 
